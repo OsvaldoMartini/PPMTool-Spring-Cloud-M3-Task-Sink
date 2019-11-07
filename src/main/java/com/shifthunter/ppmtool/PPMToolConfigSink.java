@@ -6,10 +6,10 @@ import org.springframework.cloud.task.launcher.annotation.EnableTaskLauncher;
 
 @SpringBootApplication
 @EnableTaskLauncher
-public class PPMTool_Config_Sink {
+public class PPMToolConfigSink {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PPMTool_Config_Sink.class, args);
+		SpringApplication.run(PPMToolConfigSink.class, args);
 	}
 
 }
